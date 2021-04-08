@@ -25,9 +25,10 @@ titles:
   # @end locale config
 key: page-about
 ---
-* [Schrodinger's Utopia](https://zhuyi.fan/)
+* [Charge Wayne](http://me.iamwxc.com/)
 * [Outvi V](https://outv.im/)
+* [Schrodinger's Utopia](https://zhuyi.fan/)
 * [ShawnZhou的小站](https://shawnzhou.world/)
+  * [退役的 Shawn Zhou 的博客（已过时）](https://www.cnblogs.com/OIerShawnZhou/)
 * [WitherC 的博客](https://blog.csdn.net/qq_40607911/)
-* [退役的 Shawn Zhou 的博客（已过时）](https://www.cnblogs.com/OIerShawnZhou/)
-* [WitherC 的博客（已过时）](http://witherc.top/)
+  * [WitherC 的博客（已过时）](http://witherc.top/)
