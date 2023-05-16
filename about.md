@@ -26,12 +26,6 @@ titles:
 key: page-about
 ---
 
-这里是Okami。
+Hi there 👋
 
-喜欢*凉宫春日*系列、*新世纪福音战士*系列、*星际牛仔*、*夏日大作战*。
-
-喜欢*GT Sport*、*合金装备：幻痛*、*最后的生还者*、*光环*系列、*魔兽争霸3*、*Risk of Rain*、*Cat Quest*、*看火人*。
-
-也喜欢和喜欢的人一起打*花札*~
-
-曾经是OIer。
+Just some guy who likes programming.
